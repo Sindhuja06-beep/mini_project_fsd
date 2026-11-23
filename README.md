@@ -1,0 +1,2 @@
+# mini_project_fsd
+fsd_mini_project_streaksmith
